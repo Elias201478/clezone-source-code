@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Clezone.vcxproj" Id="e0058146-40ae-48f2-ad4c-878e8edaf577" />
+</Solution>
